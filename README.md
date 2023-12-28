@@ -1,6 +1,6 @@
 # Query_Domain_Classification
 
-**Data Collection:** Analytics Vidya: https://datahack.analyticsvidhya.com/contest/query-domain-classification/
+**Data Collection:** Analytics Vidya: [Click Here](https://datahack.analyticsvidhya.com/contest/query-domain-classification/)
 
 Build a system to categorize the query on the basis of the domain using Natural Language Processing.
 
