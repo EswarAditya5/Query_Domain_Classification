@@ -20,7 +20,6 @@ Train and Test Set
 
 The train and test set contains the queries from different timespans. The train set includes the target variable ‘domain’ whereas in the test set, you need to predict the target variable ‘domain’. The target variable category contains multiple classes like  Techniques, Tools, Career, Hackathons, Resources, Misc, and Other.
 
-
 |Variable|Description|
 |:--:|:--:|
 |ID| Unique identifier of the query|
